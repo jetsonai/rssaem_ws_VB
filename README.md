@@ -10,6 +10,9 @@ sudo apt install ros-humble-gazebo-ros-pkgs
 
 source /opt/ros/humble/setup.bash
 
+ros2 launch gazebo_ros gazebo.launch.py
+
+
 ## 테스트
 
 ## test 1
