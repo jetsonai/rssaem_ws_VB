@@ -1,0 +1,22 @@
+ㅁ파티션 확장
+lsblk
+
+sudo growpart /dev/mmcblk0 1
+
+sudo resize2fs /dev/mmcblk0p1
+
+df -h
+
+https://drive.google.com/drive/folders/1B2x2TO_MVZyH2QQAmhmNoDGjR3OtvrHJ?usp=drive_link
+ㅁ6.1.2
+
+
+remotectl1.sh
+remotectl2.sh
+testapp.py
+np.py
+test.txt
+CHECK folder
+
+rssaem_ws
+
